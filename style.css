@@ -382,7 +382,7 @@
     justify-content: center;
     align-items: center;
     width: 80rem;
-    height: 84vh;
+    height: 80vh;
     margin: 0 auto;
     color: #7d7c7c;
   }
@@ -423,7 +423,7 @@
   .contact {
     display: flex;
     flex-direction: column;
-    margin-bottom: -0.2rem;
+    margin-bottom: 2.5rem;
   }
   .contact a {
     color: #7d7c7c;
