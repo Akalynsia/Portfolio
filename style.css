@@ -395,8 +395,8 @@
     align-items: center;
     justify-content: center;
     border-radius: 2rem;
-    margin-top: 7.8em;
-    margin-bottom: 7.8em;
+    margin-top: 8em;
+    margin-bottom: 8em;
   }
   .name {
     text-align: center;
@@ -423,7 +423,7 @@
   .contact {
     display: flex;
     flex-direction: column;
-    margin-bottom: 2.5rem;
+    margin-bottom: 0.45rem;
   }
   .contact a {
     color: #7d7c7c;
@@ -525,7 +525,7 @@
     justify-content: center;
     align-items: center;
     width: 40rem;
-    height: 54vh;
+    height: 45.5vh;
     line-height: 2rem;
     margin: 0 auto;
     color: #7d7c7c;
@@ -551,7 +551,7 @@
     color: #7d7c7c;
     gap: 3%;
     text-align: center;
-    height: 46rem;
+    height: 36rem;
     margin-top: 5rem;
     margin-bottom: 5rem;
   }
