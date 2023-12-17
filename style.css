@@ -761,4 +761,7 @@
   .device-mobile {
     display: none;
   }
+  .mobile-mobile {
+    display: block;
+  }
 }
