@@ -255,6 +255,9 @@
   .about-mobile {
     display: none;
   }
+  .mobile-mobile {
+    display: none;
+  }
 }
 /* Normal Screens */
 @media (max-width: 1280px) {
@@ -521,6 +524,9 @@
   .about-mobile {
     display: none;
   }
+  .mobile-mobile {
+    display: none;
+  }
 }
 /* For small screens */
 @media (max-width: 1120px) {
@@ -750,6 +756,9 @@
     display: none;
   }
   .about {
+    display: none;
+  }
+  .device-mobile {
     display: none;
   }
 }
