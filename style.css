@@ -382,7 +382,7 @@
     justify-content: center;
     align-items: center;
     width: 80rem;
-    height: 80.8vh;
+    height: 82vh;
     margin: 0 auto;
     color: #7d7c7c;
   }
@@ -524,7 +524,7 @@
     justify-content: center;
     align-items: center;
     width: 60rem;
-    height: 45.7vh;
+    height: 47vh;
     line-height: 2rem;
     margin: 0 auto;
     color: #7d7c7c;
@@ -550,7 +550,7 @@
     color: #7d7c7c;
     gap: 3%;
     text-align: center;
-    height: 63.2vh;
+    height: 64vh;
     margin-top: 5rem;
     margin-bottom: 5rem;
   }
