@@ -548,6 +548,8 @@
   }
   h1 {
     margin-right: 3rem;
+    text-align: center;
+    font-size: 28px;
   }
   .burger-menu-container {
     display: flex;
@@ -719,9 +721,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-  }
-  .contact h1 {
-    margin-left: 1.6rem;
   }
   .contact a {
     color: #7d7c7c;
