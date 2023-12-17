@@ -192,14 +192,6 @@
     transform: translateY(0);
   }
   /* services */
-  .device-only {
-    background-color: #f1efef;
-    border-radius: 2rem;
-    display: flex;
-    justify-content: space-evenly;
-    width: 100%;
-    text-align: center;
-  }
   section {
     background-color: #f1efef;
     border: solid 0.2rem #191717;
