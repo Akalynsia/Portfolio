@@ -687,7 +687,7 @@
 
   .project-info h2 {
     margin: 0;
-    font-size: 12px;
+    font-size: 24px;
   }
 
   .project-box .project-link {
@@ -717,6 +717,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+  .contact h1 {
+    margin-left: 1rem;
   }
   .contact a {
     color: #7d7c7c;
