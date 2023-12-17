@@ -382,7 +382,7 @@
     justify-content: center;
     align-items: center;
     width: 80rem;
-    height: 82vh;
+    height: 81.7vh;
     margin: 0 auto;
     color: #7d7c7c;
   }
@@ -457,17 +457,17 @@
     gap: 20px;
     margin-top: 2rem;
     margin-bottom: 1.5rem;
-    padding: 20px; /* Adding padding around the projects */
+    padding: 20px;
   }
 
   .project-box {
-    position: relative; /* Set position to relative */
-    width: calc(50% - 10px); /* Adjust width as needed */
-    height: 200px; /* Adjust height as needed */
-    background-color: #ccc; /* Change background color */
+    position: relative;
+    width: calc(50% - 10px);
+    height: 200px;
+    background-color: #ccc;
     overflow: hidden;
-    border-radius: 10px; /* Adding border radius */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding shadow for depth */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
   .project-info {
@@ -524,7 +524,7 @@
     justify-content: center;
     align-items: center;
     width: 60rem;
-    height: 47vh;
+    height: 49vh;
     line-height: 2rem;
     margin: 0 auto;
     color: #7d7c7c;
