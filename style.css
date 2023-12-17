@@ -599,6 +599,7 @@
     height: 81.9vh;
     margin: 0 auto;
     color: #7d7c7c;
+    margin-bottom: 2rem;
   }
   /* Im Oktay */
   article {
@@ -660,7 +661,7 @@
     display: flex;
     margin-bottom: 2rem;
     width: 80%;
-    height: 20rem;
+    height: 24rem;
     flex-direction: column;
     padding: 2rem;
     text-align: center;
@@ -715,9 +716,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-  }
-  .contact h1 {
-    margin-left: 3rem;
   }
   .contact a {
     color: #7d7c7c;
