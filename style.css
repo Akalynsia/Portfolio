@@ -335,6 +335,18 @@
   h1:hover::after {
     width: 100%;
   }
+  .name-link a {
+    color: #f1efef;
+  }
+  .name-link a:hover {
+    color: #f1efef;
+  }
+  .name-link a:visited {
+    color: #f1efef;
+  }
+  .name-link a:active {
+    color: #f1efef;
+  }
   /* Nav Menu */
   .regular-menu {
     margin: auto 25rem;
