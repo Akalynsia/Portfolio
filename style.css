@@ -115,8 +115,8 @@
     align-items: center;
     justify-content: center;
     border-radius: 2rem;
-    margin-top: 6em;
-    margin-bottom: 6em;
+    margin-top: 7.95em;
+    margin-bottom: 7.95em;
   }
   .name {
     text-align: center;
@@ -146,8 +146,8 @@
     padding: 2rem;
     border: solid 0.2rem #191717;
     text-align: center;
-    margin-top: 6.45em;
-    margin-bottom: 6.45em;
+    margin-top: 10.6em;
+    margin-bottom: 10.6em;
     width: 50%;
   }
   /* Project */
@@ -203,8 +203,8 @@
     flex-direction: column;
     padding: 2rem;
     text-align: center;
-    margin-top: 8.95em;
-    margin-bottom: 8.92em;
+    margin-top: 13.1em;
+    margin-bottom: 13.1em;
   }
   .mobile-only {
     display: none;
@@ -217,8 +217,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 14.1em;
-    margin-bottom: 14.1em;
+    margin-top: 18.3em;
+    margin-bottom: 18.3em;
   }
   .contact a {
     color: #7d7c7c;
@@ -381,8 +381,8 @@
     align-items: center;
     justify-content: center;
     border-radius: 2rem;
-    margin-top: 8.12em;
-    margin-bottom: 8.12em;
+    margin-top: 10.14em;
+    margin-bottom: 10.14em;
   }
   .name {
     text-align: center;
@@ -412,8 +412,8 @@
     padding: 2rem;
     border: solid 0.2rem #191717;
     text-align: center;
-    margin-top: 4.26em;
-    margin-bottom: 4.26em;
+    margin-top: 8.5em;
+    margin-bottom: 8.5em;
     width: 50%;
   }
   /* services */
@@ -435,8 +435,8 @@
     flex-direction: column;
     padding: 2rem;
     text-align: center;
-    margin-top: 5.85em;
-    margin-bottom: 5.85em;
+    margin-top: 10.1em;
+    margin-bottom: 10.1em;
   }
   .mobile-only {
     display: none;
@@ -491,8 +491,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 15em;
-    margin-bottom: 15.08em;
+    margin-top: 19.3em;
+    margin-bottom: 19.3em;
   }
   .contact a {
     color: #7d7c7c;
