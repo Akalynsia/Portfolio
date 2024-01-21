@@ -14,29 +14,17 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header>
-      <div class="icon">
-        <img src="img/react-icon.png" alt="react-icon" />
-      </div>
-      <!-- Name -->
-      <div class="name-link">
-        <a href="index.html"><h1>OKTAY HIZAR</h1></a>
-      </div>
-      <!-- Regular navigation for larger screens -->
-      <nav class="regular-menu">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About Me</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="/">Contact</a></li>
-        </ul>
-      </nav>
-      <!-- Burger Icon -->
-      <div class="burger-menu-container">
-        <div class="burger-icon" onclick="toggleMenu()">&#9776;</div>
-        <!-- Navigation links for burger menu -->
-        <nav>
+    <div id="general">
+      <header>
+        <div class="icon">
+          <img src="img/react-icon.png" alt="react-icon" />
+        </div>
+        <!-- Name -->
+        <div class="name-link">
+          <a href="index.html"><h1>OKTAY HIZAR</h1></a>
+        </div>
+        <!-- Regular navigation for larger screens -->
+        <nav class="regular-menu">
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About Me</a></li>
@@ -45,28 +33,44 @@
             <li><a href="/">Contact</a></li>
           </ul>
         </nav>
-      </div>
-    </header>
-    <!-- Contact Info -->
-    <main>
-      <div class="contact">
-        <h1>Contact Information</h1>
-        <a href="mailto:hizar.oktay@gmail.com">Email: hizar.oktay@gmail.com</a>
-        <div class="device-mobile">
-          <a href="tel:+905304189477"> <p>Phone: +(90) 530 418 9477</p></a>
+        <!-- Burger Icon -->
+        <div class="burger-menu-container">
+          <div class="burger-icon" onclick="toggleMenu()">&#9776;</div>
+          <!-- Navigation links for burger menu -->
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About Me</a></li>
+              <li><a href="projects.html">Projects</a></li>
+              <li><a href="services.html">Services</a></li>
+              <li><a href="/">Contact</a></li>
+            </ul>
+          </nav>
         </div>
-        <div class="mobile-mobile">
-          <a href="tel:+905304189477"> <p>Phone: +(90) 530 418 9477</p></a>
+      </header>
+      <!-- Contact Info -->
+      <main>
+        <div class="contact">
+          <h1>Contact Information</h1>
+          <a href="mailto:hizar.oktay@gmail.com"
+            >Email: hizar.oktay@gmail.com</a
+          >
+          <div class="device-mobile">
+            <a href="tel:+905304189477"> <p>Phone: +(90) 530 418 9477</p></a>
+          </div>
+          <div class="mobile-mobile">
+            <a href="tel:+905304189477"> <p>Phone: +(90) 530 418 9477</p></a>
+          </div>
+          <a href="https://www.linkedin.com/in/hizar-oktay/" target="_blank"
+            >My Linkedin Profile</a
+          >
+          <a href="https://github.com/Akalynsia" target="_blank"
+            >My Github Profile</a
+          >
         </div>
-        <a href="https://www.linkedin.com/in/hizar-oktay/" target="_blank"
-          >My Linkedin Profile</a
-        >
-        <a href="https://github.com/Akalynsia" target="_blank"
-          >My Github Profile</a
-        >
-      </div>
-    </main>
-    <footer><p>Made by Oktay</p></footer>
+      </main>
+      <footer><p>Made by Oktay</p></footer>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
